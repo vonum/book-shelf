@@ -21,3 +21,5 @@
 - Design Patterns - Elements of Reusable Object-Oriented Software
 - Practical Vim 2nd Edition - Edit Text at the Speed of Light
 - The GO Programming Language
+- Algorithms, 4th Edition
+- Test-Driven Development By Example

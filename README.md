@@ -23,3 +23,4 @@
 - The GO Programming Language
 - Algorithms, 4th Edition
 - Test-Driven Development By Example
+- NoSQL - A Brief Guide to the Emerging World of Polyglot Persistence

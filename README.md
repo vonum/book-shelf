@@ -10,6 +10,7 @@
 - Rest API Design Rulebook - Designing Consistent RESTful Web Service
     Interfaces
 - Test-Driving Javascript Applications - Rapid, Confident, Maintainable Code
+- NoSQL Distilled - A Brief Guide to the Emerging World of Polyglot Persistence
 
 
 #### Books to Read:
@@ -23,4 +24,3 @@
 - The GO Programming Language
 - Algorithms, 4th Edition
 - Test-Driven Development By Example
-- NoSQL - A Brief Guide to the Emerging World of Polyglot Persistence

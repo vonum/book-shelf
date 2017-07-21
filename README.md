@@ -24,3 +24,4 @@
 - The GO Programming Language
 - Algorithms, 4th Edition
 - Test-Driven Development By Example
+- Practical Object-Oriented Design in Ruby - An Agile Primer

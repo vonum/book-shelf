@@ -2,15 +2,17 @@
 
 ### List of books I read or I plan to read on my journey to become a better software engineer
 
+Books marked with * were really useful for me.
+
 #### Read Books:
 
-- Apprenticeship Patterns - Guidance for the Aspiring Software Craftsmen
-- Understanding Ecmascript 6 - The Definitive Guide for Javascript Developers
-- Websocket - Lightweight Client-Server Communications
-- Rest API Design Rulebook - Designing Consistent RESTful Web Service
+- *Apprenticeship Patterns - Guidance for the Aspiring Software Craftsmen
+- *Understanding Ecmascript 6 - The Definitive Guide for Javascript Developers
+-  Websocket - Lightweight Client-Server Communications
+-  Rest API Design Rulebook - Designing Consistent RESTful Web Service
     Interfaces
-- Test-Driving Javascript Applications - Rapid, Confident, Maintainable Code
-- NoSQL Distilled - A Brief Guide to the Emerging World of Polyglot Persistence
+-  Test-Driving Javascript Applications - Rapid, Confident, Maintainable Code
+- *NoSQL Distilled - A Brief Guide to the Emerging World of Polyglot Persistence
 
 
 #### Books to Read:

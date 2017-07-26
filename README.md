@@ -27,3 +27,5 @@ Books marked with * were really useful for me.
 - Algorithms, 4th Edition
 - Test-Driven Development By Example
 - Practical Object-Oriented Design in Ruby - An Agile Primer
+- Design Patterns in Ruby
+- SSH Mastery - OpenSSH, PuTTY, Tunnels and Keys

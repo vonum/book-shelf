@@ -13,7 +13,7 @@ Books marked with * were really useful for me.
     Interfaces
 -  Test-Driving Javascript Applications - Rapid, Confident, Maintainable Code
 - *NoSQL Distilled - A Brief Guide to the Emerging World of Polyglot Persistence
-
+-  SSH Mastery - OpenSSH, PuTTY, Tunnels and Keys
 
 #### Books to Read:
 
@@ -28,4 +28,3 @@ Books marked with * were really useful for me.
 - Test-Driven Development By Example
 - Practical Object-Oriented Design in Ruby - An Agile Primer
 - Design Patterns in Ruby
-- SSH Mastery - OpenSSH, PuTTY, Tunnels and Keys

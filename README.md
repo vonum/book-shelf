@@ -28,3 +28,4 @@ Books marked with * were really useful for me.
 - Algorithms, 4th Edition
 - Test-Driven Development By Example
 - Design Patterns in Ruby
+- Refactoring - Improving the Design of Existing Code

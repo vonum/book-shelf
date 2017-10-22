@@ -15,6 +15,7 @@ Books marked with * were really useful for me.
 - *NoSQL Distilled - A Brief Guide to the Emerging World of Polyglot Persistence
 -  SSH Mastery - OpenSSH, PuTTY, Tunnels and Keys
 - *Practical Object-Oriented Design in Ruby - An Agile Primer
+- Test-Driven Development By Example
 
 #### Books to Read:
 
@@ -26,6 +27,5 @@ Books marked with * were really useful for me.
 - Practical Vim 2nd Edition - Edit Text at the Speed of Light
 - The GO Programming Language
 - Algorithms, 4th Edition
-- Test-Driven Development By Example
 - Design Patterns in Ruby
 - Refactoring - Improving the Design of Existing Code

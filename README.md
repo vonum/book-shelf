@@ -29,3 +29,4 @@ Books marked with * were really useful for me.
 - Algorithms, 4th Edition
 - Design Patterns in Ruby
 - Refactoring - Improving the Design of Existing Code
+- Patterns of Enterprise Application Architecture

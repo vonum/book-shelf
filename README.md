@@ -4,7 +4,9 @@
 
 Books marked with * were really useful for me.
 
-#### Read Books:
+### Read Books:
+
+#### Engineering
 
 - *Apprenticeship Patterns - Guidance for the Aspiring Software Craftsmen
 - *Understanding Ecmascript 6 - The Definitive Guide for Javascript Developers
@@ -16,6 +18,11 @@ Books marked with * were really useful for me.
 -  SSH Mastery - OpenSSH, PuTTY, Tunnels and Keys
 - *Practical Object-Oriented Design in Ruby - An Agile Primer
 - Test-Driven Development By Example
+
+#### Artificial Intelligence
+
+#### Other
+
 
 #### Books to Read:
 

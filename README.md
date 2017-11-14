@@ -18,6 +18,7 @@ Books marked with * were really useful for me.
 -  SSH Mastery - OpenSSH, PuTTY, Tunnels and Keys
 - *Practical Object-Oriented Design in Ruby - An Agile Primer
 - Test-Driven Development By Example
+- Docker Up & Running - Shipping Reliable Containers In Production
 
 #### Artificial Intelligence
 

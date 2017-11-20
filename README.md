@@ -7,7 +7,6 @@ Books marked with * were really useful for me.
 ### Read Books:
 
 #### Engineering
-
 - *Apprenticeship Patterns - Guidance for the Aspiring Software Craftsmen
 - *Understanding Ecmascript 6 - The Definitive Guide for Javascript Developers
 -  Websocket - Lightweight Client-Server Communications
@@ -19,14 +18,15 @@ Books marked with * were really useful for me.
 - *Practical Object-Oriented Design in Ruby - An Agile Primer
 - Test-Driven Development By Example
 - Docker Up & Running - Shipping Reliable Containers In Production
+- *The Linux Command Line - A Complete Introduction
 
 #### Artificial Intelligence
 
 #### Other
 
+### Books to Read:
 
-#### Books to Read:
-
+#### Engineering
 - The Pragmatic Programmer - From Journeyman to Master
 - The Clean Coder - A Code of Conduct for Professional Programmer
 - Haskell Programming from First Principles
@@ -38,3 +38,9 @@ Books marked with * were really useful for me.
 - Design Patterns in Ruby
 - Refactoring - Improving the Design of Existing Code
 - Patterns of Enterprise Application Architecture
+
+#### Artificial Intelligence
+- Learning TensorFlow - A Guide To Building Deep Learning Systems
+
+#### Other
+- Tao Of Letting Go - Meditation For Modern Living

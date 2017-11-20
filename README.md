@@ -41,6 +41,10 @@ Books marked with * were really useful for me.
 
 #### Artificial Intelligence
 - Learning TensorFlow - A Guide To Building Deep Learning Systems
+- Deep Learning
+- The Elements of Statistical Learning - Data Mining, Inference and Prediction
+- Hands-On Machine Learning With Scikit-Learn & TensorFlow
+- Make Your Own Neural Network
 
 #### Other
-- Tao Of Letting Go - Meditation For Modern Living
+- Tao of Letting Go - Meditation For Modern Living

@@ -38,6 +38,7 @@ Books marked with * were really useful for me.
 - Design Patterns in Ruby
 - Refactoring - Improving the Design of Existing Code
 - Patterns of Enterprise Application Architecture
+- Extreme Programming Explained - Embrace Change
 
 #### Artificial Intelligence
 - Learning TensorFlow - A Guide To Building Deep Learning Systems

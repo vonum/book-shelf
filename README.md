@@ -2,24 +2,24 @@
 
 ### List of books I read or I plan to read on my journey to become a better software engineer
 
-Books marked with * were really useful for me.
+Emphasized books were particularly useful.
 
 ### Read Books:
 
 #### Engineering
-- *Apprenticeship Patterns - Guidance for the Aspiring Software Craftsmen
-- *Understanding Ecmascript 6 - The Definitive Guide for Javascript Developers
+- **_Apprenticeship Patterns_** - Guidance for the Aspiring Software Craftsmen
+- **_Understanding Ecmascript_** 6 - The Definitive Guide for Javascript Developers
 -  Websocket - Lightweight Client-Server Communications
 -  Rest API Design Rulebook - Designing Consistent RESTful Web Service
     Interfaces
 -  Test-Driving Javascript Applications - Rapid, Confident, Maintainable Code
-- *NoSQL Distilled - A Brief Guide to the Emerging World of Polyglot Persistence
+- **_NoSQL Distilled_** - A Brief Guide to the Emerging World of Polyglot Persistence
 -  SSH Mastery - OpenSSH, PuTTY, Tunnels and Keys
-- *Practical Object-Oriented Design in Ruby - An Agile Primer
+- **_Practical Object-Oriented Design in Ruby_** - An Agile Primer
 - Test-Driven Development By Example
 - Docker Up & Running - Shipping Reliable Containers In Production
-- *The Linux Command Line - A Complete Introduction
-- *The Pragmatic Programmer - From Journeyman to Master
+- **_The Linux Command Line_** - A Complete Introduction
+- **_The Pragmatic Programmer_** - From Journeyman to Master
 
 #### Artificial Intelligence
 

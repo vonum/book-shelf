@@ -19,6 +19,7 @@ Books marked with * were really useful for me.
 - Test-Driven Development By Example
 - Docker Up & Running - Shipping Reliable Containers In Production
 - *The Linux Command Line - A Complete Introduction
+- *The Pragmatic Programmer - From Journeyman to Master
 
 #### Artificial Intelligence
 
@@ -27,7 +28,6 @@ Books marked with * were really useful for me.
 ### Books to Read:
 
 #### Engineering
-- The Pragmatic Programmer - From Journeyman to Master
 - The Clean Coder - A Code of Conduct for Professional Programmer
 - Haskell Programming from First Principles
 - Amazon Web Services in Action

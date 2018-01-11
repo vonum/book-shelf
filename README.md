@@ -22,6 +22,7 @@ Emphasized books were particularly useful.
 - **_The Pragmatic Programmer_** - From Journeyman to Master
 
 #### Artificial Intelligence
+- Make Your Own Neural Network
 
 #### Other
 
@@ -45,7 +46,7 @@ Emphasized books were particularly useful.
 - Deep Learning
 - The Elements of Statistical Learning - Data Mining, Inference and Prediction
 - Hands-On Machine Learning With Scikit-Learn & TensorFlow
-- Make Your Own Neural Network
+- Artificial Intelligence - A Modern Approach
 
 #### Other
 - Tao of Letting Go - Meditation For Modern Living

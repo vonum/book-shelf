@@ -1,7 +1,6 @@
 # Book Shelf
 
 ### List of books I read or I plan to read on my journey to become a better software engineer
-
 Emphasized books were particularly useful.
 
 ### Read Books:
@@ -24,6 +23,9 @@ Emphasized books were particularly useful.
 #### Artificial Intelligence
 - Make Your Own Neural Network
 
+#### Cryptocurrencies and Blockchain
+- The Internet of Money
+
 #### Other
 
 ### Books to Read:
@@ -37,6 +39,7 @@ Emphasized books were particularly useful.
 - The GO Programming Language
 - Algorithms, 4th Edition
 - Design Patterns in Ruby
+- Eloquent Ruby
 - Refactoring - Improving the Design of Existing Code
 - Patterns of Enterprise Application Architecture
 - Extreme Programming Explained - Embrace Change
@@ -47,6 +50,14 @@ Emphasized books were particularly useful.
 - The Elements of Statistical Learning - Data Mining, Inference and Prediction
 - Hands-On Machine Learning With Scikit-Learn & TensorFlow
 - Artificial Intelligence - A Modern Approach
+- Reinforcement Learning
+- Practical Statistics for Data Science
+- Python for Data Analysis
+
+#### Cryptocurrencies and Blockchain
+- Mastering Bitcoin
 
 #### Other
 - Tao of Letting Go - Meditation For Modern Living
+- The Power of Now
+- Exploring the World of Lucid Dreaming

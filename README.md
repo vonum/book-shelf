@@ -26,6 +26,8 @@ Emphasized books were particularly useful.
 #### Cryptocurrencies and Blockchain
 - The Internet of Money
 
+#### Compilers and Language Design
+
 #### Other
 
 ### Books to Read:
@@ -43,6 +45,7 @@ Emphasized books were particularly useful.
 - Refactoring - Improving the Design of Existing Code
 - Patterns of Enterprise Application Architecture
 - Extreme Programming Explained - Embrace Change
+- Metaprogramming Elixir
 
 #### Artificial Intelligence
 - Learning TensorFlow - A Guide To Building Deep Learning Systems
@@ -56,6 +59,11 @@ Emphasized books were particularly useful.
 
 #### Cryptocurrencies and Blockchain
 - Mastering Bitcoin
+
+#### Compilers and Language Design
+- Building Your Own Compiler With C++
+- Language Implementation Patterns: Techniques for Implementing Domain-Specific
+    Languages
 
 #### Other
 - Tao of Letting Go - Meditation For Modern Living

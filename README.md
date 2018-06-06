@@ -1,10 +1,8 @@
 # Book Shelf
-
-### List of books I read or I plan to read on my journey to become a better software engineer
+### List of books I read or plan to read on my journey to become a super saiyan
 Emphasized books were particularly useful.
 
 ### Read Books:
-
 #### Engineering
 - **_Apprenticeship Patterns_** - Guidance for the Aspiring Software Craftsmen
 - **_Understanding Ecmascript_** 6 - The Definitive Guide for Javascript Developers
@@ -19,9 +17,12 @@ Emphasized books were particularly useful.
 - Docker Up & Running - Shipping Reliable Containers In Production
 - **_The Linux Command Line_** - A Complete Introduction
 - **_The Pragmatic Programmer_** - From Journeyman to Master
+- Production-Ready Microservices - Building Standardized Systems Across an
+    Engineering Organization
 
-#### Artificial Intelligence
-- Make Your Own Neural Network
+#### Artificial Intelligence and Maths
+- **_Make Your Own Neural Network_**
+- Introduction to Graph Theory
 
 #### Cryptocurrencies and Blockchain
 - The Internet of Money
@@ -29,9 +30,9 @@ Emphasized books were particularly useful.
 #### Compilers and Language Design
 
 #### Other
+- The Power of Now
 
 ### Books to Read:
-
 #### Engineering
 - The Clean Coder - A Code of Conduct for Professional Programmer
 - Haskell Programming from First Principles
@@ -47,7 +48,7 @@ Emphasized books were particularly useful.
 - Extreme Programming Explained - Embrace Change
 - Metaprogramming Elixir
 
-#### Artificial Intelligence
+#### Artificial Intelligence and Maths
 - Learning TensorFlow - A Guide To Building Deep Learning Systems
 - Deep Learning
 - The Elements of Statistical Learning - Data Mining, Inference and Prediction
@@ -56,6 +57,7 @@ Emphasized books were particularly useful.
 - Reinforcement Learning
 - Practical Statistics for Data Science
 - Python for Data Analysis
+- Real-World Machine Learning
 
 #### Cryptocurrencies and Blockchain
 - Mastering Bitcoin
@@ -67,5 +69,4 @@ Emphasized books were particularly useful.
 
 #### Other
 - Tao of Letting Go - Meditation For Modern Living
-- The Power of Now
 - Exploring the World of Lucid Dreaming

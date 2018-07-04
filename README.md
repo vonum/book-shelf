@@ -23,6 +23,7 @@ Emphasized books were particularly useful.
 #### Artificial Intelligence and Maths
 - **_Make Your Own Neural Network_**
 - Introduction to Graph Theory
+- **_Real-World Machine Learning_**
 
 #### Cryptocurrencies and Blockchain
 - The Internet of Money
@@ -57,7 +58,6 @@ Emphasized books were particularly useful.
 - Reinforcement Learning
 - Practical Statistics for Data Science
 - Python for Data Analysis
-- Real-World Machine Learning
 
 #### Cryptocurrencies and Blockchain
 - Mastering Bitcoin

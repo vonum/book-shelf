@@ -5,7 +5,7 @@ Emphasized books were particularly useful.
 ### Read Books:
 #### Engineering
 - **_Apprenticeship Patterns_** - Guidance for the Aspiring Software Craftsmen
-- **_Understanding Ecmascript_** 6 - The Definitive Guide for Javascript Developers
+-  Understanding Ecmascript 6 - The Definitive Guide for Javascript Developers
 -  Websocket - Lightweight Client-Server Communications
 -  Rest API Design Rulebook - Designing Consistent RESTful Web Service
     Interfaces
@@ -30,8 +30,9 @@ Emphasized books were particularly useful.
 
 #### Compilers and Language Design
 
-#### Other
-- The Power of Now
+#### Philosophy / Pshicology / Other
+- **_The Power of Now_**
+- **_The Subtle Art of Not Giving a Fuck_**
 
 ### Books to Read:
 #### Engineering
@@ -58,6 +59,7 @@ Emphasized books were particularly useful.
 - Reinforcement Learning
 - Practical Statistics for Data Science
 - Python for Data Analysis
+- Deep Learning With Python
 
 #### Cryptocurrencies and Blockchain
 - Mastering Bitcoin
@@ -67,6 +69,6 @@ Emphasized books were particularly useful.
 - Language Implementation Patterns: Techniques for Implementing Domain-Specific
     Languages
 
-#### Other
+#### Philosophy / Pshicology / Other
 - Tao of Letting Go - Meditation For Modern Living
 - Exploring the World of Lucid Dreaming

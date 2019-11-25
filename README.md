@@ -25,6 +25,7 @@ Emphasized books were particularly useful.
 - Introduction to Graph Theory
 - **_Real-World Machine Learning_**
 - **_Deep Learning With Python_**
+- **_Machine Learning Yearning_**
 
 #### Cryptocurrencies and Blockchain
 - The Internet of Money

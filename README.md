@@ -20,6 +20,7 @@ Emphasized books were particularly useful.
 - Production-Ready Microservices - Building Standardized Systems Across an
     Engineering Organization
 - **_Clean Code_** - A handbook of Agile Software Craftsmanship
+- **_Building Microservices_** - Designing Fine-Grained Systems
 
 #### Artificial Intelligence and Maths
 - **_Make Your Own Neural Network_**

@@ -40,6 +40,7 @@ Emphasized books were particularly useful.
 
 ### Books to Read:
 #### Engineering
+- Domain Driven Design
 - The Clean Coder - A Code of Conduct for Professional Programmer
 - Haskell Programming from First Principles
 - Amazon Web Services in Action

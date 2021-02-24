@@ -22,12 +22,16 @@ Emphasized books were particularly useful.
 - **_Clean Code_** - A handbook of Agile Software Craftsmanship
 - **_Building Microservices_** - Designing Fine-Grained Systems
 
-#### Artificial Intelligence and Maths
+#### ML / DL, Data Analysis, Maths
 - **_Make Your Own Neural Network_**
 - Introduction to Graph Theory
 - **_Real-World Machine Learning_**
 - **_Deep Learning With Python_**
 - **_Machine Learning Yearning_**
+- Keras Deep Learning Cookbook
+- **_Storytelling with Data_**
+- **_Building Machine Learning Powered Applications_** - Going from Idea to
+    Product
 
 #### Cryptocurrencies and Blockchain
 - The Internet of Money
@@ -55,7 +59,7 @@ Emphasized books were particularly useful.
 - Extreme Programming Explained - Embrace Change
 - Metaprogramming Elixir
 
-#### Artificial Intelligence and Maths
+#### ML / DL, Data Analysis, Maths
 - Learning TensorFlow - A Guide To Building Deep Learning Systems
 - Deep Learning
 - The Elements of Statistical Learning - Data Mining, Inference and Prediction
@@ -64,6 +68,12 @@ Emphasized books were particularly useful.
 - Reinforcement Learning
 - Practical Statistics for Data Science
 - Python for Data Analysis
+- Transformers for Natural Language Processing
+- Machine Learning Math
+- Machine Learning Design Patterns
+- Building Machine Learning Pipelines
+- Hands-On Unsupervised Learning Using Python
+- Generative Deep Learning
 
 #### Cryptocurrencies and Blockchain
 - Mastering Bitcoin

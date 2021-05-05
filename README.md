@@ -32,6 +32,7 @@ Emphasized books were particularly useful.
 - **_Storytelling with Data_**
 - **_Building Machine Learning Powered Applications_** - Going from Idea to
     Product
+- Learn Computer Vision using OpenCV
 
 #### Cryptocurrencies and Blockchain
 - The Internet of Money

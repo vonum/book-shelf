@@ -42,6 +42,7 @@ Emphasized books were particularly useful.
 #### Philosophy / Pshicology / Other
 - **_The Power of Now_**
 - **_The Subtle Art of Not Giving a Fuck_**
+- **_Zero to One_** - Notes on Startups or How to Build the Future
 
 ### Books to Read:
 #### Engineering

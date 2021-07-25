@@ -43,6 +43,7 @@ Emphasized books were particularly useful.
 - **_The Power of Now_**
 - **_The Subtle Art of Not Giving a Fuck_**
 - **_Zero to One_** - Notes on Startups or How to Build the Future
+- **_12 Rules for Life_** - An Antidote to Chaos
 
 ### Books to Read:
 #### Engineering

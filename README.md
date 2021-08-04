@@ -44,6 +44,7 @@ Emphasized books were particularly useful.
 - **_The Subtle Art of Not Giving a Fuck_**
 - **_Zero to One_** - Notes on Startups or How to Build the Future
 - **_12 Rules for Life_** - An Antidote to Chaos
+- **_Hackers & Painters_** - Big Ideas From The Computer Age
 
 ### Books to Read:
 #### Engineering

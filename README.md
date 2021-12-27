@@ -45,6 +45,7 @@ Emphasized books were particularly useful.
 - **_Zero to One_** - Notes on Startups or How to Build the Future
 - **_12 Rules for Life_** - An Antidote to Chaos
 - **_Hackers & Painters_** - Big Ideas From The Computer Age
+- **_Leading High Performance Teams_** - A Pocket Masterclass in Team Leadership
 
 ### Books to Read:
 #### Engineering

@@ -46,6 +46,7 @@ Emphasized books were particularly useful.
 - **_12 Rules for Life_** - An Antidote to Chaos
 - **_Hackers & Painters_** - Big Ideas From The Computer Age
 - **_Leading High Performance Teams_** - A Pocket Masterclass in Team Leadership
+- Definitive Book of Body Language
 
 ### Books to Read:
 #### Engineering

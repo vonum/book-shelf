@@ -36,6 +36,7 @@ Emphasized books were particularly useful.
 
 #### Cryptocurrencies and Blockchain
 - The Internet of Money
+- **_Mastering Bitcoin_** - Programming the Open Blockchain
 
 #### Compilers and Language Design
 

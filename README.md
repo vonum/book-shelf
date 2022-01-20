@@ -34,9 +34,10 @@ Emphasized books were particularly useful.
     Product
 - Learn Computer Vision using OpenCV
 
-#### Cryptocurrencies and Blockchain
+#### Cryptocurrencies, Blockchain and Finance
 - The Internet of Money
 - **_Mastering Bitcoin_** - Programming the Open Blockchain
+- Rich Dad Poor Dad
 
 #### Compilers and Language Design
 

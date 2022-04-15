@@ -37,6 +37,7 @@ Emphasized books were particularly useful.
 #### Cryptocurrencies, Blockchain and Finance
 - The Internet of Money
 - **_Mastering Bitcoin_** - Programming the Open Blockchain
+- **_Mastering Ethereum** - Building Smart Contracts and DApps
 - Rich Dad Poor Dad
 
 #### Compilers and Language Design

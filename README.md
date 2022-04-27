@@ -40,6 +40,7 @@ Emphasized books were particularly useful.
 - **_Mastering Bitcoin_** - Programming the Open Blockchain
 - **_Mastering Ethereum** - Building Smart Contracts and DApps
 - Rich Dad Poor Dad
+- **_How to DEFI_**
 
 #### Compilers and Language Design
 

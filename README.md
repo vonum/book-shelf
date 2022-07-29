@@ -41,6 +41,7 @@ Emphasized books were particularly useful.
 - **_Mastering Ethereum** - Building Smart Contracts and DApps
 - Rich Dad Poor Dad
 - **_How to DEFI_**
+- **_Debt_** - The First 5000 Years
 
 #### Compilers and Language Design
 

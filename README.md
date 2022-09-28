@@ -42,6 +42,7 @@ Emphasized books were particularly useful.
 - Rich Dad Poor Dad
 - **_How to DEFI_**
 - **_Debt_** - The First 5000 Years
+- How to DEFI - Advanced
 
 #### Compilers and Language Design
 

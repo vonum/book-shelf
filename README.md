@@ -43,6 +43,7 @@ Emphasized books were particularly useful.
 - **_How to DEFI_**
 - **_Debt_** - The First 5000 Years
 - How to DEFI - Advanced
+- **_The Bitcoin Standard_** - The Decentralized Alternative to Central Banking
 
 #### Compilers and Language Design
 

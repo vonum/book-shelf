@@ -21,6 +21,7 @@ Emphasized books were particularly useful.
     Engineering Organization
 - **_Clean Code_** - A handbook of Agile Software Craftsmanship
 - **_Building Microservices_** - Designing Fine-Grained Systems
+- Patterns of Enterprise Application Architecture
 
 #### ML / DL, Data Analysis, Maths
 - **_Make Your Own Neural Network_**

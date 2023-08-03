@@ -45,6 +45,7 @@ Emphasized books were particularly useful.
 - **_Debt_** - The First 5000 Years
 - How to DEFI - Advanced
 - **_The Bitcoin Standard_** - The Decentralized Alternative to Central Banking
+- **_The Fiat Standard_** - The Debt Slavery Alternative to Human Civilization
 
 #### Compilers and Language Design
 

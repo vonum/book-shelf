@@ -58,6 +58,7 @@ Emphasized books were particularly useful.
 - **_Leading High Performance Teams_** - A Pocket Masterclass in Team Leadership
 - Definitive Book of Body Language
 - **_Why We Sleep_** - Unlocking the Power of Sleep and Dreams
+- Art of Loving
 
 ### Books to Read:
 #### Engineering

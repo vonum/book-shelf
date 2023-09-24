@@ -46,6 +46,7 @@ Emphasized books were particularly useful.
 - How to DEFI - Advanced
 - **_The Bitcoin Standard_** - The Decentralized Alternative to Central Banking
 - **_The Fiat Standard_** - The Debt Slavery Alternative to Human Civilization
+- **_Layered Money_**
 
 #### Compilers and Language Design
 

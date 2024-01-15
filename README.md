@@ -60,6 +60,8 @@ Emphasized books were particularly useful.
 - Definitive Book of Body Language
 - **_Why We Sleep_** - Unlocking the Power of Sleep and Dreams
 - Art of Loving
+- **_The Sovereign Individual _** - Mastering the Transaition to the Information
+    Age
 
 ### Books to Read:
 #### Engineering

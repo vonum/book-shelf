@@ -22,6 +22,7 @@ Emphasized books were particularly useful.
 - **_Clean Code_** - A handbook of Agile Software Craftsmanship
 - **_Building Microservices_** - Designing Fine-Grained Systems
 - Patterns of Enterprise Application Architecture
+- **_Monolith to Microservices_** - Evolutionary Patterns to Transform Your Monolith
 
 #### ML / DL, Data Analysis, Maths
 - **_Make Your Own Neural Network_**

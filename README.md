@@ -40,7 +40,7 @@ Emphasized books were particularly useful.
 - The Internet of Money
 - The Internet of Money - Volume Two
 - **_Mastering Bitcoin_** - Programming the Open Blockchain
-- **_Mastering Ethereum** - Building Smart Contracts and DApps
+- **_Mastering Ethereum_** - Building Smart Contracts and DApps
 - Rich Dad Poor Dad
 - **_How to DEFI_**
 - **_Debt_** - The First 5000 Years
@@ -96,9 +96,6 @@ Emphasized books were particularly useful.
 - Building Machine Learning Pipelines
 - Hands-On Unsupervised Learning Using Python
 - Generative Deep Learning
-
-#### Cryptocurrencies and Blockchain
-- Mastering Bitcoin
 
 #### Compilers and Language Design
 - Building Your Own Compiler With C++

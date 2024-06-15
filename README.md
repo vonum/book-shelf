@@ -105,3 +105,4 @@ Emphasized books were particularly useful.
 #### Philosophy / Pshicology / Other
 - Tao of Letting Go - Meditation For Modern Living
 - Exploring the World of Lucid Dreaming
+- Astrophysics for People in a Hurry

@@ -63,6 +63,8 @@ Emphasized books were particularly useful.
 - Art of Loving
 - **_The Sovereign Individual _** - Mastering the Transaition to the Information
     Age
+- The Mom Test - How to talk to customers & learn if your business is a good idea
+    when everyone is lying to you
 
 ### Books to Read:
 #### Engineering

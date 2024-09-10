@@ -23,6 +23,7 @@ Emphasized books were particularly useful.
 - **_Building Microservices_** - Designing Fine-Grained Systems
 - Patterns of Enterprise Application Architecture
 - **_Monolith to Microservices_** - Evolutionary Patterns to Transform Your Monolith
+- **_Refactoring_** - Improving the Design of Existing Code
 
 #### ML / DL, Data Analysis, Maths
 - **_Make Your Own Neural Network_**
@@ -65,6 +66,7 @@ Emphasized books were particularly useful.
     Age
 - The Mom Test - How to talk to customers & learn if your business is a good idea
     when everyone is lying to you
+- Astrophysics for People in a Hurry
 
 ### Books to Read:
 #### Engineering
@@ -76,10 +78,6 @@ Emphasized books were particularly useful.
 - Practical Vim 2nd Edition - Edit Text at the Speed of Light
 - The GO Programming Language
 - Algorithms, 4th Edition
-- Design Patterns in Ruby
-- Eloquent Ruby
-- Refactoring - Improving the Design of Existing Code
-- Patterns of Enterprise Application Architecture
 - Extreme Programming Explained - Embrace Change
 - Metaprogramming Elixir
 
@@ -107,4 +105,3 @@ Emphasized books were particularly useful.
 #### Philosophy / Pshicology / Other
 - Tao of Letting Go - Meditation For Modern Living
 - Exploring the World of Lucid Dreaming
-- Astrophysics for People in a Hurry

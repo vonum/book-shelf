@@ -1,5 +1,4 @@
 # Book Shelf
-### List of books I read or plan to read on my journey to become a super saiyan
 Emphasized books were particularly useful.
 
 ### Read Books:

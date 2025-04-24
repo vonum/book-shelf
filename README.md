@@ -25,6 +25,8 @@ Emphasized books were particularly useful.
 - **_Monolith to Microservices_** - Evolutionary Patterns to Transform Your Monolith
 - **_Refactoring_** - Improving the Design of Existing Code
 - Mythical Man-Month - The Essays on Software Engineering
+- **_Designing Distributed Systems_** - Patterns and Paradigms for Scalable,
+    Reliable Services
 
 #### ML / DL, Data Analysis, Maths
 - **_Make Your Own Neural Network_**

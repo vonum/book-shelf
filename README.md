@@ -82,6 +82,10 @@ Emphasized books were particularly useful.
 - Algorithms, 4th Edition
 - Extreme Programming Explained - Embrace Change
 - Metaprogramming Elixir
+- Building Secure and Reliable Systems
+- The Site Reliability Workbook
+- 100 Go Mistakes
+- Designing Data Intensive Applications
 
 #### ML / DL, Data Analysis, Maths
 - Learning TensorFlow - A Guide To Building Deep Learning Systems

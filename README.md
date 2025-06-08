@@ -26,6 +26,7 @@ Emphasized books were particularly useful.
 - Mythical Man-Month - The Essays on Software Engineering
 - **_Designing Distributed Systems_** - Patterns and Paradigms for Scalable,
     Reliable Services
+- **_Concurrency in Go_** - Tools and Techniques for Developers
 
 #### ML / DL, Data Analysis, Maths
 - **_Make Your Own Neural Network_**
@@ -64,7 +65,7 @@ Emphasized books were particularly useful.
 - Definitive Book of Body Language
 - **_Why We Sleep_** - Unlocking the Power of Sleep and Dreams
 - Art of Loving
-- **_The Sovereign Individual _** - Mastering the Transaition to the Information
+- **_The Sovereign Individual_** - Mastering the Transaition to the Information
     Age
 - The Mom Test - How to talk to customers & learn if your business is a good idea
     when everyone is lying to you

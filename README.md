@@ -70,6 +70,7 @@ Emphasized books were particularly useful.
 - The Mom Test - How to talk to customers & learn if your business is a good idea
     when everyone is lying to you
 - Astrophysics for People in a Hurry
+- **_The Book of Five Rings_**
 
 ### Books to Read:
 #### Engineering

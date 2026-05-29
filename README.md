@@ -79,6 +79,10 @@ Emphasized books were particularly useful.
 - Astrophysics for People in a Hurry
 - **_The Book of Five Rings_**
 
+#### Kids
+
+- Nest Warmth That Gives Wings
+
 ### Books to Read:
 
 #### Engineering

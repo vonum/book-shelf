@@ -78,6 +78,7 @@ Emphasized books were particularly useful.
   when everyone is lying to you
 - Astrophysics for People in a Hurry
 - **_The Book of Five Rings_**
+- **_Who moved my cheese_**
 
 #### Kids
 

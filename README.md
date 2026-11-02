@@ -79,6 +79,7 @@ Emphasized books were particularly useful.
 - Astrophysics for People in a Hurry
 - **_The Book of Five Rings_**
 - **_Who moved my cheese_**
+- **_The Mystical Cabaret_**
 
 #### Kids
 
